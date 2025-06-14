@@ -14,11 +14,11 @@ import CustomMessageInput from "./CustomMessageInput";
 import "stream-chat-react/dist/css/v2/index.css";
 import AIStateIndicator from "./AIStateIndicator";
 
-const apiKey = "y388kgj7k3jk";
-const userId = "1368888";
-const userName = "Smooth Tee Test App";
+const apiKey = "xxxxxxxxxxxx";
+const userId = "xxxxxxxxx";
+const userName = "John Doe";
 const userToken =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiMTM2ODg4OCJ9.zk_DkpT1bJI-RzHo_PQyc5ppVh80M83xQ3H9ZazGRGI";
+  "xxxxxxxxxxxxxxxxxxxxxxxxx.exxxxxxxJ9.zkxxxxJI-RzHo_PQyc5ppxxxxxxxxRGI";
 
 const user: User = {
   id: userId,
