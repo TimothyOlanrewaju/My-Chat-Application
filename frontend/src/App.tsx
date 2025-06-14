@@ -36,7 +36,7 @@ const App = () => {
 
   useEffect(() => {
     if (!client) return;
-    const channel = client.channel("messaging", "my_channelll", {
+    const channel = client.channel("messaging", "my_channel", {
       members: [userId],
     });
 
